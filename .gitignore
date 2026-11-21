@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+
+# Maven / Java
+backend/target/
+*.class
+.idea/
+*.iml
+
+# Env
+.env
